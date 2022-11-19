@@ -55,3 +55,12 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ## Reserving Part will looklike this
 ![booking app4](https://user-images.githubusercontent.com/98327416/202856277-8fedde84-35a8-47d1-aa75-ee2e84d2950d.png)
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavna-sharma-1060a620b/)
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at bhavnasharma0421@gmail.com
+
